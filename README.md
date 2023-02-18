@@ -12,7 +12,7 @@ N/A
 
 You can see the image of the project below.
 <br><br>
-![alt text](assets/imges/screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 ## Links
 
